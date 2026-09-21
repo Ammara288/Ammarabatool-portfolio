@@ -5,18 +5,6 @@ A fully responsive single-page personal portfolio website built with **HTML5, CS
 ## 🔗 Live Demo
 
 **[View Live Portfolio](https://ammarabatool-portfolio.vercel.app/)**
-
-## 📸 Preview
-
-### Desktop View
-![Desktop Screenshot](screenshots/desktop.png)
-
-### Tablet View
-![Tablet Screenshot](screenshots/tablet.png)
-
-### Mobile View
-![Mobile Screenshot](screenshots/mobile.png)
-
 ## ✨ Features
 
 ### Core Sections
